@@ -1,0 +1,200 @@
+1. Paid Time Off (PTO) & Leave Policy
+Purpose & Scope
+This policy establishes the rules governing time off from work, ensuring employees receive adequate rest while maintaining operational continuity. It applies to all full-time and part-time employees.
+
+PTO Accrual & Entitlement
+Accrual Rate: Full-time employees accrue Paid Time Off at a rate of 1.66 days per completed calendar month of service, totaling 20 business days per calendar year.
+
+Pro-Rating: Employees starting mid-year accrue PTO on a pro-rata basis starting from their official date of joining.
+
+Carry-Over Limit: A maximum of 5 unused PTO days may be carried over into the following calendar year. Unused days exceeding this cap are forfeited on December 31st without cash payout, unless mandated otherwise by local labor laws.
+
+Leave Types & Definitions
+Casual/Vacation Leave: Intended for planned personal time off. Must be requested at least 10 business days in advance for requests exceeding 3 consecutive days.
+
+Sick Leave: Intended for illness, injury, or medical appointments. Employees receive 10 paid sick days per calendar year. A official medical certificate from a licensed physician is strictly required for sick leave exceeding 2 consecutive business days.
+
+Parental Leave: Primary caregivers are eligible for 16 weeks of fully paid parental leave. Secondary caregivers receive 4 weeks of fully paid parental leave, applicable following the birth, adoption, or surrogacy placement of a child.
+
+Approval Hierarchy & System Logging
+All leave requests must be formally submitted through the HR Portal.
+
+Requests of 1 to 3 days require direct People Manager approval.
+
+Requests exceeding 3 consecutive business days require joint approval from the People Manager and the Department Head.
+
+2. Remote Work & Hybrid Work Policy
+Purpose & Eligibility
+This policy defines the parameters, expectations, and technical setup for employees working outside the physical office environment. Full-time employees who have successfully completed their initial 90-day probationary period are eligible to apply for a hybrid or fully remote arrangement, subject to manager approval.
+
+Working Hours & Availability
+Core Hours: All remote employees must be active, reachable, and available on company communication channels (Slack, Microsoft Teams, Email) during core operational hours: 10:00 AM to 4:00 PM EST.
+
+Flexible Hours: Employees may flex their remaining 2 working hours per day between 7:00 AM and 7:00 PM EST, provided total daily working time equals 8 hours.
+
+Stipend & Equipment Rules
+Hardware Provision: The company provides a primary laptop, monitor, and encrypted peripheral set. Company equipment remains company property and must be returned upon separation.
+
+Home Office Allowance: Remote-designated employees receive a one-time setup allowance of $500 and a monthly internet reimbursement of $60, submitted via the expense portal.
+
+Security & Compliance
+Employees must connect to the corporate Virtual Private Network (VPN) whenever accessing internal servers, databases, or cloud infrastructure.
+
+Working from public Wi-Fi networks without an active corporate VPN is strictly prohibited.
+
+3. Code of Conduct & Anti-Harassment Policy
+Zero Tolerance Standards
+The company is committed to maintaining a workplace free from harassment, discrimination, bullying, and retaliation. Discrimination or harassment based on race, gender, age, disability, sexual orientation, or religious beliefs will result in immediate disciplinary action up to and including summary termination.
+
+Definition of Workplace Harassment
+Verbal: Derogatory comments, slurs, unwelcome jokes, or persistent unwanted advances.
+
+Non-Verbal: Displaying suggestive or offensive materials, explicit emails, or hostile body language.
+
+Quid Pro Quo: Conditioning employment benefits, promotions, or compensation on personal or sexual favors.
+
+Reporting & Escalation Protocol
+Filing a Report: An employee may report misconduct verbally or in writing to their direct manager, HR Business Partner (HRBP), or anonymously via the Compliance Hotline.
+
+Investigation Timeline: HR initiates an investigation within 48 hours of receiving a complaint. Investigations are conducted confidentially and finalized within 14 business days.
+
+Protection Against Retaliation: Any retaliation against an individual who reports harassment in good faith is a severe violation of policy and grounds for immediate termination.
+
+4. Expense Reimbursement Policy
+Spend Limits & Categories
+Employees incurring expenses while conducting official company business will be reimbursed according to the following category caps:
+
+Daily Meal Cap (Travel): Maximum $75 per day ($15 Breakfast, $20 Lunch, $40 Dinner). Alcohol is non-reimbursable unless part of an authorized client entertainment event.
+
+Lodging Cap: Standard room rates up to $250 per night in major metropolitan areas, and $180 per night elsewhere.
+
+Transportation: Economy class airfare for flights under 6 hours. Rideshares (Uber/Lyft) or rental cars are covered for business transit only.
+
+Submission Windows & Documentation
+Receipts are strictly mandatory for any individual expense exceeding $15.
+
+Expense reports must be submitted via the expense tool within 30 days of the date the expense was incurred. Late submissions beyond 60 days will be automatically rejected and rendered non-reimbursable.
+
+Reimbursements are disbursed on the 15th and last working day of each month following managerial sign-off.
+
+5. Information Security & Clean Desk Policy
+Password & Authentication Requirements
+Passwords must be a minimum of 16 characters long, incorporating uppercase letters, lowercase letters, numbers, and special symbols.
+
+Passwords expire every 90 days and cannot match any of the previous 5 passwords used.
+
+Multi-Factor Authentication (MFA) is mandatory across all company-issued hardware and SaaS accounts.
+
+Physical & Digital Desk Standards
+Workstations must be manually locked (Win + L or Cmd + Ctrl + Q) whenever left unattended, even for short durations.
+
+Unattended printouts containing Confidential or Restricted information must not be left on communal printers.
+
+Sensitive physical documents must be locked in designated filing cabinets at the end of each working day.
+
+Data Handling Classifications
+Public: Information approved for public distribution (marketing assets, press releases).
+
+Internal: General operational data accessible to all active staff.
+
+Confidential: Customer PII, source code, financial records, and employee HR data. Access restricted on a strict need-to-know basis.
+
+6. Performance Review & Promotion Policy
+Evaluation Cycles
+The company conducts performance evaluations on a bi-annual cycle:
+
+Mid-Year Review: Conducted in July (Focus on feedback, progress tracking, and development goals).
+
+Annual Review: Conducted in January (Focus on official ratings, merit salary adjustments, and bonus allocations).
+
+Rating Scale Definitions
+Rating 5 (Exceptional): Consistently exceeds all expectations across all core responsibilities and OKRs.
+
+Rating 4 (Exceeds Expectations): Frequently delivers above target metrics and exhibits high potential.
+
+Rating 3 (Meets Expectations): Fully performs duties to the required standard.
+
+Rating 2 (Needs Improvement): Fails to consistently meet baseline job requirements; requires a formal 30-day target plan.
+
+Rating 1 (Unsatisfactory): Substantial underperformance; triggers an immediate Performance Improvement Plan (PIP).
+
+Promotion Eligibility Criteria
+Minimum tenure of 12 consecutive months in the current role.
+
+Sustained performance rating of 'Exceeds Expectations' (4) or higher for two consecutive review cycles.
+
+Formal endorsement from both the Department Head and the HR Calibration Committee.
+
+7. Performance Improvement Plan (PIP) Policy
+Trigger Conditions
+A Performance Improvement Plan (PIP) is initiated when an employee exhibits sustained underperformance or receives a "Needs Improvement" or "Unsatisfactory" rating in a performance cycle.
+
+PIP Duration & Structure
+Standard PIP duration is 60 calendar days, with formal review checkpoints every 14 days.
+
+The plan must outline specific, measurable objectives, clear success criteria, required resources, and designated support systems provided by management.
+
+Outcomes & Consequences
+Successful Completion: If the employee meets all target metrics by Day 60, they exit the PIP and return to standard employment standing.
+
+Unsuccessful Completion: If the employee fails to meet defined targets by Day 60, management may extend the PIP by 30 days (maximum once) or initiate immediate termination for performance reasons.
+
+8. Disciplinary & Grievance Policy
+Progressive Discipline Framework
+For non-summary offences, the company follows a 4-step progressive discipline sequence:
+
+Verbal Warning: Documented informally and kept on file within the department for 6 months.
+
+Written Warning: Issued by HR and logged formally in the employee's central personnel file.
+
+Final Written Warning & Suspension: Accompanied by a 3-day unpaid suspension.
+
+Termination of Employment: Separation initiated if behavior or performance fails to rectify.
+
+Summary Dismissal Offences
+Immediate termination without prior warnings occurs in instances of gross misconduct, including but not limited to: theft, physical violence, fraud, deliberate destruction of company property, working under the influence of illegal substances, or severe breaches of data security.
+
+Formal Grievance Procedure
+Step 1: Informal resolution attempted with immediate supervisor within 5 days of incident.
+
+Step 2: Formal written grievance submitted to HRBP if Step 1 is unresolved.
+
+Step 3: Grievance Hearing convened within 7 business days, presided over by HR and an neutral senior executive. Final decision communicated in writing within 5 days post-hearing.
+
+9. Offboarding & Separation Policy
+Notice Period Requirements
+Probationary Employees: 14 calendar days written notice required from either party.
+
+Regular Full-Time Staff: 30 calendar days written notice required.
+
+Director Level & Above: 60 calendar days written notice required.
+
+Pay in Lieu of Notice: The company reserves the right to provide base salary payment in lieu of requiring the employee to work out their notice period.
+
+Asset Return Protocol
+On or before the final working day, the departing employee must return:
+
+Laptop, peripherals, mobile devices, and security key fobs.
+
+Corporate credit cards and access badges.
+
+All physical and digital confidential materials.
+
+Exit Clearance & Final Settlement
+Final payroll settlement, including accrued unused PTO payouts (where applicable) and pending expenses, is processed within 14 business days post-last working day.
+
+An optional confidential Exit Interview is conducted by HR during the employee's final week.
+
+10. Health, Safety, & Wellness Policy
+General Safety Standards
+The company is committed to maintaining a safe working environment compliant with national Occupational Health and Safety (OSHA) regulations. Every employee is responsible for taking reasonable care of their own health and safety and that of others who may be affected by their acts or omissions.
+
+Incident Reporting
+All workplace injuries, accidents, or near-misses—regardless of severity—must be reported to the Workplace Health & Safety (WHS) officer and HR within 24 hours.
+
+First aid kits and certified first aid personnel are located on every floor of physical office facilities.
+
+Employee Assistance Program (EAP)
+The company provides a confidential Employee Assistance Program offering up to 6 free counseling sessions per year for employees and their immediate family members.
+
+EAP services cover mental health support, financial counseling, legal guidance, and stress management.
