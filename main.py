@@ -5,6 +5,9 @@ Run with:  python main.py
 
 from hr_assistant.pipeline import ask , build_hr_assistant
 import sys
+from hr_assistant.logger import get_logger
+
+logger = get_logger(__name__)
 
 sys.stdout.reconfigure(encoding="utf-8")
 
