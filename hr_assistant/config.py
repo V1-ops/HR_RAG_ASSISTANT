@@ -7,6 +7,9 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 JINA_API_KEY = os.getenv("JINA_API_KEY")
 
+#Guard model
+GUARD_MODEL_NAME = "openai/gpt-oss-safeguard-20b"
+
 #Langsmith
 
 LANGSMITH_TRACING=os.getenv("LANGSMITH_TRACING", "false")

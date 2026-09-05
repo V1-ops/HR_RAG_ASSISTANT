@@ -6,6 +6,7 @@ from hr_assistant.document_loader import load_document
 from hr_assistant.llm import get_llm
 from hr_assistant.splitter import chunking
 from hr_assistant.tools import create_search_tool
+from hr_assistant.Guardrails import REFUSAL_MESSAGE,check_input,check_output
 from hr_assistant.vector_store import(
     build_vector_store,
     get_retriever,
@@ -58,7 +59,21 @@ def ask(agent, question: str) -> str:
     """Ask the agent a question and
     return its final answer as plain text."""
     logger.info("User question: %s",question)
+
+    #input guard - to get safe imnputs
+    input_is_safe,_ = check_input(question)
+
+    if not input_is_safe:
+        return REFUSAL_MESSAGE
+    
+
+
     response = agent.invoke({"messages":[{"role":"user","content":question}]})
     answer = response["messages"][-1].content
+
+    # output guard - to check if agent gives safe answers
+    output_is_safe, _ = check_output(answer)
+    if not output_is_safe:
+        return REFUSAL_MESSAGE
     logger.info("Final answer: %s",answer)
     return answer 
