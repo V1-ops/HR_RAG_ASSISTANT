@@ -13,7 +13,8 @@ langchain-text-splitters
 streamlit
 
 
-faiss-cpu
+langchain-qdrant
+qdrant-client
 
 
 jupyter
