@@ -19,3 +19,6 @@ qdrant-client
 
 jupyter
 ipykernel
+
+
+openevals
