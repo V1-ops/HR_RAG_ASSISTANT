@@ -47,10 +47,12 @@ def check_api_keys()-> None:
         raise ValueError("GROQ_API_KEY is not set. Please set it in the .env file.")
     if not JINA_API_KEY:
         raise ValueError("Jina API key is not set. Please set it in the .env file.")
+    if not QDRANT_URL:
+        raise ValueError("QDRANT_URL is not set. Please set it in the .env file.")
 
 
 QDRANT_URL = os.getenv("QDRANT_URL")
 
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 
-QDRABT_COLLECTION_NAME = os.getenv("QDRANT_COLLECTION_NAME","hr_policy")
+QDRANT_COLLECTION_NAME = os.getenv("QDRANT_COLLECTION_NAME","hr_policy")

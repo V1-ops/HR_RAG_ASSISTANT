@@ -24,11 +24,11 @@ def build_vector_store(chunks):
         embeddings_model,
         url=config.QDRANT_URL,
         api_key=config.QDRANT_API_KEY,
-        collection_name=config.QDRABT_COLLECTION_NAME
+        collection_name=config.QDRANT_COLLECTION_NAME
 
 
     )
-    logger.info("Uploaded to Qdrant collection '%s'", config.QDRABT_COLLECTION_NAME)
+    logger.info("Uploaded to Qdrant collection '%s'", config.QDRANT_COLLECTION_NAME)
     return vector_store
 
 def load_vector_store():

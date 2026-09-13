@@ -10,8 +10,8 @@ from hr_assistant.pipeline import ask, build_hr_assistant
 
 logger = get_logger(__name__)
 
-st.set_page_config(page_title="HR Policy Assistant", page_icon="🤖")
-st.title("🤖 HR Policy Assistant")
+st.set_page_config(page_title="HR Policy Assistant", page_icon=":material/smart_toy:")
+st.title("HR Policy Assistant")
 st.caption("Ask me anything about the company HR policy document.")
 
 
@@ -20,7 +20,12 @@ def get_agent():
     return build_hr_assistant()
 
 
-agent = get_agent()
+try:
+    agent = get_agent()
+except Exception as exc:
+    logger.exception("Failed to start HR Policy Assistant")
+    st.error(str(exc))
+    st.stop()
 
 if "messages" not in st.session_state:
     st.session_state.messages = []

@@ -4,3 +4,4 @@ basicragenv
 data\faiss_index
 
 logs
+__pycache__
